@@ -14,11 +14,11 @@ const Service = () => {
       >
         <div className="column large-full">
           <h2 className="section-heading section-heading--centerbottom">
-            Capabilities
+            Skills and Technologies
           </h2>
 
           <p className="section-desc">
-            My passion and goal is to help you make your business standout.
+            What I've learned and mastered so far
           </p>
         </div>
       </div>
@@ -26,36 +26,30 @@ const Service = () => {
       <div className="row services-list block-large-1-3 block-medium-1-2 block-tab-full">
         <div className="column item-service" data-aos="fade-up">
           <div className="item-service__content">
-            <h4 className="item-title">Brand Identity</h4>
+            <h4 className="item-title">Software Development (Python, C++)</h4>
             <p>
-              Sit ut cum molestiae. Dolore ducimus qui quasi. Fugiat consequatur
-              sit vel illum vel et a delectus. Vel sequi vitae voluptatem
-              perspiciatis eligendi. Voluptatibus optio natus asperiores est
-              commodi amet quia architecto. Dolores necessitatibus et.
+              Made and contributed to software applications written in Python and C++.
             </p>
           </div>
         </div>
 
         <div className="column item-service" data-aos="fade-up">
           <div className="item-service__content">
-            <h4 className="item-title">Illustration</h4>
+            <h4 className="item-title">Web Development (Javascript, React.js)</h4>
             <p>
-              Sit ut cum molestiae. Dolore ducimus qui quasi. Fugiat consequatur
-              sit vel illum vel et a delectus. Vel sequi vitae voluptatem
-              perspiciatis eligendi. Voluptatibus optio natus asperiores est
-              commodi amet quia architecto. Dolores necessitatibus et.
+              I've created and maintained websites written in Javascript, 
+              with many of them using React.js.
             </p>
           </div>
         </div>
 
         <div className="column item-service" data-aos="fade-up">
           <div className="item-service__content">
-            <h4 className="item-title">Web Design</h4>
+            <h4 className="item-title">Graphic Design</h4>
             <p>
-              Sit ut cum molestiae. Dolore ducimus qui quasi. Fugiat consequatur
-              sit vel illum vel et a delectus. Vel sequi vitae voluptatem
-              perspiciatis eligendi. Voluptatibus optio natus asperiores est
-              commodi amet quia architecto. Dolores necessitatibus et.
+              I create graphic designs and illustrations using Adobe Illustrator,
+              Clip Studio Paint, and Canva. I've been applying my knowledge in work and
+              university projects.
             </p>
           </div>
         </div>

@@ -10,7 +10,7 @@ const Footer = () => {
       <div className="row">
         <div className="column large-full ss-copyright">
           <span>
-            Copyright © {thisYear} Wilson Widyadhana. All rights reserved
+            Copyright © {thisYear} Michelle Chrisalyn Djunaidi. All rights reserved
           </span>
           <span>
             Design (EPITOME) by{" "}
