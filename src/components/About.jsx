@@ -21,12 +21,9 @@ const About = () => {
             </p>
 
             <p>
-              My career interests lie at the intersection between data science,
-              machine learning, and quantitative finance, which I believe the
-              programmes I'm currently undertaking at SUTD would help prepare me
-              for. I'm open for any work opportunities, especially those that
-              can provide me with a platform to directly (and positively) impact
-              the various communities around us.
+              I am exploring my career interests in software design and development.
+              I'm open for any work opportunities, 
+              especially ones where I can help communities around me.
             </p>
 
             <p>
@@ -38,8 +35,8 @@ const About = () => {
             <p>
               As I've mentioned before, I'd also generally love to meet and get
               to know you on a personal level -- just drop me an email at{" "}
-              <a href="mailto:wilsonwidyadhana681@gmail.com">
-                wilsonwidyadhana681[at]gmail[dot]com
+              <a href="mailto:michellechrisalyn@gmail.com">
+                michellechrisalyn[at]gmail[dot]com
               </a>{" "}
               and let's connect!
             </p>
@@ -76,17 +73,14 @@ const About = () => {
               <div className="timeline__block">
                 <div className="timeline__bullet"></div>
                 <div className="timeline__header">
-                  <p className="timeline__timeframe">July 2018 - Present</p>
-                  <h3 className="item-title">Awesome Studio</h3>
-                  <h5>Lead Designer</h5>
+                  <p className="timeline__timeframe">May 2022 - current</p>
+                  <h3 className="item-title">Singapore University of Technology and Design</h3>
+                  <h5>Data Analyst in University Research Project (UROP)</h5>
                 </div>
                 <div className="timeline__desc">
                   <p>
-                    Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in
-                    magna consectetur nisi cupidatat laboris esse eiusmod
-                    deserunt aute do quis velit esse sed Ut proident cupidatat
-                    nulla esse cillum laborum occaecat nostrud sit dolor
-                    incididunt amet est occaecat nisi.
+                  Processing and analyzing data for the UROP titled Design Thinking - Harvesting
+                  And Analyzing Data On Student Performance And Creativity.
                   </p>
                 </div>
               </div>
@@ -94,17 +88,14 @@ const About = () => {
               <div className="timeline__block">
                 <div className="timeline__bullet"></div>
                 <div className="timeline__header">
-                  <p className="timeline__timeframe">July 2017 - June 2018</p>
-                  <h3 className="item-title">Super Cool Agency</h3>
-                  <h5>Frontend Developer</h5>
+                  <p className="timeline__timeframe">Feb 2022 - current</p>
+                  <h3 className="item-title">Perhimpunan Mahasiswa SUTD Indonesia (PADI)</h3>
+                  <h5>IT Specialist</h5>
                 </div>
                 <div className="timeline__desc">
                   <p>
-                    Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in
-                    magna consectetur nisi cupidatat laboris esse eiusmod
-                    deserunt aute do quis velit esse sed Ut proident cupidatat
-                    nulla esse cillum laborum occaecat nostrud sit dolor
-                    incididunt amet est occaecat nisi.
+                  Maintains the website, emails, and other IT systems for the entire CCA club. 
+                  Also handles documentation forms and troubleshoots issues.
                   </p>
                 </div>
               </div>
@@ -112,17 +103,14 @@ const About = () => {
               <div className="timeline__block">
                 <div className="timeline__bullet"></div>
                 <div className="timeline__header">
-                  <p className="timeline__timeframe">March 2016 - June 2017</p>
-                  <h3 className="item-title">Epic Design Studio</h3>
-                  <h5>Frontend Developer</h5>
+                  <p className="timeline__timeframe">Jun 2020 - Present</p>
+                  <h3 className="item-title">Deux Math</h3>
+                  <h5>Lead Graphic Designer</h5>
                 </div>
                 <div className="timeline__desc">
                   <p>
-                    Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in
-                    magna consectetur nisi cupidatat laboris esse eiusmod
-                    deserunt aute do quis velit esse sed Ut proident cupidatat
-                    nulla esse cillum laborum occaecat nostrud sit dolor
-                    incididunt amet est occaecat nisi.
+                    Increases engagement (likes, follows, shares)
+                    by 10x with engaging and eye-catching Instagram post designs.
                   </p>
                 </div>
               </div>
@@ -138,15 +126,13 @@ const About = () => {
               <div className="timeline__block">
                 <div className="timeline__bullet"></div>
                 <div className="timeline__header">
-                  <p className="timeline__timeframe">August 2021 - present</p>
+                  <p className="timeline__timeframe">September 2021 - present</p>
                   <p style={{ margin: "-7px 0 -5px 0" }}>Singapore</p>
                   <h3 className="item-title">
-                    National University of Singapore
+                    Singapore University of Technology and Design
                   </h3>
                   <h5>
-                    Bachelor of Science (Hons.) in Data Science and Analytics
-                    with a Second Major in Computer Science and a Minor in
-                    Quantitative Finance
+                    Bachelor of Engineering in Computer Science and Design
                   </h5>
                 </div>
                 <div className="timeline__desc">
@@ -154,7 +140,8 @@ const About = () => {
                     <li>
                       Recipient of the ASEAN Undergraduate Scholarship, which
                       covers all tuition fees after subsidies and provides for a
-                      yearly stipend.
+                      yearly stipend. Given for ASEAN students with outstanding qualifications, 
+                      exemplary Co-Curricular Activities records, and good leadership potential.
                     </li>
                   </ul>
                 </div>
@@ -165,18 +152,24 @@ const About = () => {
                 <div className="timeline__header">
                   <p className="timeline__timeframe">July 2018 - May 2021</p>
                   <p style={{ margin: "-7px 0 -5px 0" }}>Jakarta, Indonesia</p>
-                  <h3 className="item-title">SMAK 1 PENABUR Jakarta</h3>
+                  <h3 className="item-title">SMAK Ipeka Puri</h3>
                   <h5>Senior High School Diploma</h5>
                 </div>
                 <div className="timeline__desc">
                   <ul>
                     <li>
-                      Won a bronze medal at the 2019 Indonesian Senior High
-                      National Science Olympiad in Physics.
+                      Won a bronze medal at the 2020 Indonesian Senior High
+                      National Science Olympiad in Mathematics.
                     </li>
+                    <br />
                     <li>
-                      Ranked third best in the Science Stream of my batch in
-                      Year 11.
+                      Gold Award in 
+                      Southeast Asian Mathematical Olympiad (SEAMO) 2019.
+                    </li>
+                    <br />
+                    <li>
+                      Gold Award in Senior Section of 
+                      Singapore Mathematical Olympiad (SMO) 2018.
                     </li>
                   </ul>
                 </div>
