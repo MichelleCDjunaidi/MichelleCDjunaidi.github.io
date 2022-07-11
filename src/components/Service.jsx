@@ -56,7 +56,7 @@ const Service = () => {
 
         <div className="column item-service" data-aos="fade-up">
           <div className="item-service__content">
-            <h4 className="item-title">Product Strategy</h4>
+            <h4 className="item-title">Google Firebase</h4>
             <p>
               Sit ut cum molestiae. Dolore ducimus qui quasi. Fugiat consequatur
               sit vel illum vel et a delectus. Vel sequi vitae voluptatem
